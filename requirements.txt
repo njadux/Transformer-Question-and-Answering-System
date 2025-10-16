@@ -1,0 +1,27 @@
+
+# Core dependencies
+torch
+transformers
+datasets
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Interface
+streamlit
+
+# Utilities
+textwrap3
+tqdm
+jinja2
+
+# Experiment tracking
+wandb
+
+# Colab + ngrok (for local Streamlit hosting)
+pyngrok
+notebook
